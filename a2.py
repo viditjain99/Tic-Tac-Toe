@@ -1,6 +1,4 @@
 #Vidit Jain
-#2017370
-#A2
 from random import randint
 player1=1
 player2=2
