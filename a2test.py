@@ -1,6 +1,4 @@
 #Vidit Jain
-#2017370
-#A2
 import unittest
 from a2 import game1
 from a2 import game2
